@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JAVA FSE",
+    "description": "thid track consist of intense self learning on Java full stack technology with front end of Angular."
+    
+  },
+  {
+    "name": "SDET",
+    "description": "thid track consist of various test engineering tools and technologies required for testing an enterprise level application."
+  },
+  
+  {
+     "name": "Web tech FSE",
+    "description": "thid track consist of intense self learning on MEAN and MERN stack technologies."
+  }
+
+]
